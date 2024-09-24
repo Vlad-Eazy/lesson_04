@@ -3,12 +3,7 @@
 @import url(./reset.css);
 
 
-.menu {
-    color: #000;
-    text-shadow: 1px 1px 1px #000000;
-    font-size: 20px;
-    text-align: right;
-}
+
 
 .header {
     font-family: "Popins";
