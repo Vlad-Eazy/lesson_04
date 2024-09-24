@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Work-Sans-sem";
+    src: url("../fonts/WorkSans-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "Work-Sans-reg";
+    src: url("../fonts/WorkSans-Regular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap");
+
+@font-face {
+    font-family: "DM-Sans-reg";
+    src: url("../fonts/DMSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "DM Sans";
+    src: url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url("../fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: "DMSans-Bold";
+    src: url("../fonts/DMSans-Bold.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@font-face {
+    font-family: "Popins-Black";
+    src: url("../fonts/Poppins-Black.ttf");
+}
+
+@font-face {
+    font-family: "Oswald-Regular";
+    src: url("../fonts/Oswald-Regular.ttf");
+}
