@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Work-Sans-rg";
+    src: url("../fonts/WorkSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Work-Sans-sem";
+    src: url("../fonts/WorkSans-SemiBold.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swahttps://fonts.googleapis.com/css2?family=Gowun+Batang&display=swapp");
+
+@font-face {
+    font-family: face;
+    src: url("../fonts/DMSans-Bold.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz@0,9..40;1,9..40&display=swap");
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url("../fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
