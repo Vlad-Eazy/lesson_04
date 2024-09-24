@@ -3,56 +3,100 @@
 @import url(./reset.css);
 
 
+.menu {
+    color: #000;
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 20px;
+    text-align: right;
+}
+
+.header {
+    font-family: "Popins";
+    color: #000;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px #091b6a;
+}
+
+.paragraph {
+    font-family: "Oswald-Regular";
+    color: #000000;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .header__title {
-    font-family: "Work-Sans-rg";
+    font-family: "Work-Sans-sem";
     color: #132238;
     font-size: 38px;
     text-align: center;
     font-weight: 600;
-    text-decoration: underline;
-    text-shadow: 1px 2px 4px #910cbb;
-    letter-spacing: 5px;
 }
 
-.header__subtitle {
-    font-family: "Work-Sans-sem";
+.subtitle {
+    font-family: "Work-Sans-reg";
     color: #556070;
     font-size: 18px;
     font-weight: 400;
     text-align: left;
-    text-shadow: 1px 1px 2px #556070;
 }
 
-.subtitle2 {
-    font-family: "Gowun Batang", serif;
+.subtitle {
+    font-family: "Work Sans", serif;
     color: #556070;
     font-size: 18px;
     font-weight: 400;
     text-align: left;
-    text-shadow: 1px 1px 2px #556070;
+
 }
 
-.main__title {
-    font-family: "DM-Sans-bold";
+.main_title {
+    font-family: "DMSans-Bold";
     color: #1E1B39;
     font-size: 88px;
     font-weight: 700;
     text-align: center;
-    text-shadow: 1px 2px 4px #910cbb;
-    text-decoration: underline;
 }
 
-.subtitle3 {
+.subtitle1 {
     font-family: "DM-Sans-reg";
     color: #474464;
     font-size: 24px;
     font-weight: 400;
     text-align: left;
-    text-decoration: underline;
-
 }
 
-.subtitle4 {
+.subtitle2 {
     font-family: "DM Sans";
     color: #474464;
     font-size: 24px;
@@ -66,8 +110,6 @@
     font-size: 50px;
     font-weight: 500;
     letter-spacing: 1px;
-    text-decoration: underline;
-    text-shadow: 1px 2px 4px #910cbb;
     text-align: center;
 }
 
@@ -76,5 +118,5 @@
     color: #505F98;
     font-size: 18px;
     font-weight: 400;
-    text-decoration: line-through;
+
 }
